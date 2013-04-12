@@ -3,18 +3,19 @@
 ##    
 _Pohang University of Science and Technology(POSTECH), Pohang, Korea._
   
-_khyun0630@postech.ac.kr_
+Email Address : _khyun0630 at postech dot ac dot kr_
 ##    
 
 ##EDUACATION
 
-● **M.S.- Ph.D course (March 2012 - Present).** 
-Pohang University of Science and Technology(POSTECH), Pohang, Korea. 
+● **Ph.D degree (March 2012 - Present).**         
+Pohang University of Science and Technology(POSTECH), Pohang, Korea.  
+Department of Creative IT Engineering.           
 Majored in text mining, patent ananlysis
 
-● **Bachelor of Science in Industrial and Management Engineering (March 2007 - February 2011).**
-Pohang University of Science and Technology(POSTECH), Pohang, Korea 
-Overall GPA:3.74
+● **Bachelor of Science in Industrial and Management Engineering (March 2007 - February 2011).**      
+Pohang University of Science and Technology(POSTECH), Pohang, Korea          
+GPA:3.74
 
 
 ##RELATED COURSEWORK
@@ -31,7 +32,7 @@ Overall GPA:3.74
 ● **Paper** - 
  Development of the affective satisfaction model toward smartphone and application, 2011, ESK, Korea
 
-● **Summer Session** at New Zealand(2009)
+● **Summer Session** at AUT, New Zealand(2009)
 
 ● **Backpacking** at Europe, USA, Japan, China, New Zealand, South-East Asia, Turkey   
 
@@ -41,8 +42,8 @@ Overall GPA:3.74
 
 ● Patent analysis
 
-● Basic programming with JAVA, C++
+● Programming : JAVA, C++
 
-● Intermediate English
+● Intermediate English writing, listening, reading
 
 ● Proficient in MS PowerPoint, Excel
