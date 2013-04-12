@@ -1,2 +1,1 @@
-sample
-======
+Just do it 
