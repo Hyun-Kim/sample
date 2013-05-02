@@ -12,7 +12,7 @@ Skype ID : khyun0630
 ● **Ph.D degree (March 2012 - Present).**         
 Pohang University of Science and Technology(POSTECH), Pohang, Korea.  
 Department of Creative IT Engineering.           
-Majored in text mining, patent ananlysis
+Majored in **text mining, patent ananlysis**
 
 ● **Bachelor of Science in Industrial and Management Engineering (March 2007 - February 2011).**      
 Pohang University of Science and Technology(POSTECH), Pohang, Korea          
