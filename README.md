@@ -3,7 +3,8 @@
 ##    
 _Pohang University of Science and Technology(POSTECH), Pohang, Korea._
   
-Email Address : _khyun0630 at postech dot ac dot kr_
+Email Address : _khyun0630@postech.ac.kr_  
+Skype ID : khyun0630
 ##    
 
 ##EDUACATION
