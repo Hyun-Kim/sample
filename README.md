@@ -10,28 +10,44 @@ Skype ID : khyun0630
 ##EDUACATION
 
 ● **Ph.D degree (March 2012 - Present).**         
-Pohang University of Science and Technology(POSTECH), Pohang, Korea.  
-Department of Creative IT Engineering.           
-Majored in **text mining, patent ananlysis**
+- Pohang University of Science and Technology(POSTECH), Pohang, Korea.  
+- Department of Creative IT Engineering.           
+- Majored in **text mining, patent ananlysis**
+
+● **(March 2011 - February 2012)** 
+- Pohang University of Science and Technology(POSTECH), Pohang, Korea.
+- Department of Industrial and Management Engineering
+- Majored in human factors engineering(ergonomics)
 
 ● **Bachelor of Science in Industrial and Management Engineering (March 2007 - February 2011).**      
-Pohang University of Science and Technology(POSTECH), Pohang, Korea          
-GPA:3.74
+- Pohang University of Science and Technology(POSTECH), Pohang, Korea          
+- GPA:3.74
 
 
 ##RELATED COURSEWORK
 
-● **Computer Science** - Information Retrieval, Machine Translation, Database System, Data structure,Information System technology:Algorithm, Objective-Oriented Programming, Introduction to programming
+● **Computer Science** - **Information Retrieval**, Machine Translation, Database System, Data structure,Information System technology:Algorithm, Objective-Oriented Programming, Introduction to programming
 
 ● **Math(Statistics)** - Time Series, Numerical Analysis, Engineering Basic Statistics, Industrial Applied Statistics
 
-● **Management** - Technology Management&Strategy, Marketing, Financial Engineering, Principles of Economics, Production Management, Management Information System, Simulation, Entreprenuership
+● **Management** - **Technology Management&Strategy, Marketing**, Financial Engineering, Principles of Economics, Production Management, Management Information System, Simulation, Entreprenuership
+
+
+##RELATED PROJECTS  
+
+● A semantic text mining approach to patent valuation for technology transfer (2013 ~ Present)  
+● ClaimMaker: The Strategic Writing Patent Claims System (2012 ~ Present)  
+● Strategy for development of smart device input methodology via patent analysis (2012. 3 ~6)  
+● Usability evaluation of personal assistant service UI (with SK Planet, Korea) (2011)    
+● Creating smart functions for enhancing usability/affect/user value in the automobile human-machine interface (with HYUNDAI, Korea) (2011)  
+● User experience evaluation methodology for mobile phones and mobile services (with National Research Foundation of Korea) (2011)  
 
 
 ##EXPERIENCE
 
 ● **Paper** - 
- Development of the affective satisfaction model toward smartphone and application, 2011, ESK, Korea
+ **Development of the affective satisfaction model toward smartphone and application**, 2011, ESK, Korea    
+  : Affect has come into the spotlight because customers have come to pay more attention to product design. This research has developed an affective satisfaction model to verify affect elements and to determine the importance of each of the elements.
 
 ● **Summer Session** at AUT, New Zealand(2009)
 
