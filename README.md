@@ -64,3 +64,17 @@ Skype ID : khyun0630
 ● Intermediate English writing, listening, reading
 
 ● Proficient in MS PowerPoint, Excel
+
+
+##PRESENT 
+
+I am a graduate student of CiTE at POSTECH, **majoring in text mining and patent analysis**. Currently I am participating in 
+
+1)  **Future Strategy Lab.** (Dept. of Industrial and Management Engineering)   
+: focused on semantic text mining of patents for discovering future opportunities in business and technology.   
+
+2)	**Knowledge & Language Engineering Lab.** (Dept. of Computer Science Engineering).    
+: focused on information retrieval, especially related to web-based applications such as blog retrieval, top news story identification, and subtopic mining   
+
+My research aims to develop Patent Analysis System using text mining techniques and natural language processing techniques. I have conducted many team project activities regarding marketing, management, and human factors engineering. Because I have learned management science and after Ph. D. course I want to set up a business helping technology consulting, this internship will be a great help to your company and me.
+
