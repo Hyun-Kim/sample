@@ -66,9 +66,10 @@ Skype ID : khyun0630
 ● Proficient in MS PowerPoint, Excel
 
 
-##PRESENT 
+##CURRENT
 
-I am a graduate student of CiTE at POSTECH, **majoring in text mining and patent analysis**. Currently I am participating in 
+I am a graduate student of CiTE at POSTECH, **majoring in text mining and patent analysis**.   
+Currently I am participating in 
 
 1)  **Future Strategy Lab.** (Dept. of Industrial and Management Engineering)   
 : focused on semantic text mining of patents for discovering future opportunities in business and technology.   
